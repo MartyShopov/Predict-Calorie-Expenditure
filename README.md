@@ -20,17 +20,6 @@ The goal of the competition is to build a regression model that accurately estim
 - **Evaluation Metric:** Root Mean Squared Logarithmic Error (RMSLE)  
 - **Task:** Predict continuous calorie expenditure values for test instances.
 
-### RMSLE Formula
-
-\[
-RMSLE = \sqrt{\frac{1}{n} \sum_{i=1}^n \left(\log(\hat{y}_i + 1) - \log(y_i + 1)\right)^2}
-\]
-
-where:
-- \( n \) = number of test samples  
-- \( \hat{y}_i \) = predicted calories for instance \(i\)  
-- \( y_i \) = actual calories for instance \(i\)  
-
 ---
 
 ## Dataset
