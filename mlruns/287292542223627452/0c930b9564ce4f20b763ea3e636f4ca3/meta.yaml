@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mshopov/Jupyter%20Lab%20Notebooks/Kaggle%20Competitions/Predict%20Calorie%20Expenditure/mlruns/287292542223627452/0c930b9564ce4f20b763ea3e636f4ca3/artifacts
+end_time: 1747226202027
+entry_point_name: ''
+experiment_id: '287292542223627452'
+lifecycle_stage: active
+run_id: 0c930b9564ce4f20b763ea3e636f4ca3
+run_name: thoughtful-asp-602
+run_uuid: 0c930b9564ce4f20b763ea3e636f4ca3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747226189376
+status: 3
+tags: []
+user_id: mshopov

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mshopov/Jupyter%20Lab%20Notebooks/Kaggle%20Competitions/Predict%20Calorie%20Expenditure/mlruns/287292542223627452/f42f8d5c725d445d80cf9e36e57157b6/artifacts
+end_time: 1747225006640
+entry_point_name: ''
+experiment_id: '287292542223627452'
+lifecycle_stage: active
+run_id: f42f8d5c725d445d80cf9e36e57157b6
+run_name: agreeable-crab-711
+run_uuid: f42f8d5c725d445d80cf9e36e57157b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747225000734
+status: 4
+tags: []
+user_id: mshopov

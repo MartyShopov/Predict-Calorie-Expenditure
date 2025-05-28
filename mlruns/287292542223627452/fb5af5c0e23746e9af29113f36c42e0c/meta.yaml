@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mshopov/Jupyter%20Lab%20Notebooks/Kaggle%20Competitions/Predict%20Calorie%20Expenditure/mlruns/287292542223627452/fb5af5c0e23746e9af29113f36c42e0c/artifacts
+end_time: 1747224171682
+entry_point_name: ''
+experiment_id: '287292542223627452'
+lifecycle_stage: active
+run_id: fb5af5c0e23746e9af29113f36c42e0c
+run_name: sneaky-bear-747
+run_uuid: fb5af5c0e23746e9af29113f36c42e0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747220814857
+status: 3
+tags: []
+user_id: mshopov

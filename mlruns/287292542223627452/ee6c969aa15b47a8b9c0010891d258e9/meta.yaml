@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mshopov/Jupyter%20Lab%20Notebooks/Kaggle%20Competitions/Predict%20Calorie%20Expenditure/mlruns/287292542223627452/ee6c969aa15b47a8b9c0010891d258e9/artifacts
+end_time: 1747155320253
+entry_point_name: ''
+experiment_id: '287292542223627452'
+lifecycle_stage: active
+run_id: ee6c969aa15b47a8b9c0010891d258e9
+run_name: resilient-yak-640
+run_uuid: ee6c969aa15b47a8b9c0010891d258e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747155316473
+status: 3
+tags: []
+user_id: mshopov

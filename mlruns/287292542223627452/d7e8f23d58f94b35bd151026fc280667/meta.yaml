@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mshopov/Jupyter%20Lab%20Notebooks/Kaggle%20Competitions/Predict%20Calorie%20Expenditure/mlruns/287292542223627452/d7e8f23d58f94b35bd151026fc280667/artifacts
+end_time: 1747226587132
+entry_point_name: ''
+experiment_id: '287292542223627452'
+lifecycle_stage: active
+run_id: d7e8f23d58f94b35bd151026fc280667
+run_name: upset-koi-424
+run_uuid: d7e8f23d58f94b35bd151026fc280667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747226358297
+status: 3
+tags: []
+user_id: mshopov

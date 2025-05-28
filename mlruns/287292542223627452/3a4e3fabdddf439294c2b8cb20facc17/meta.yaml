@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mshopov/Jupyter%20Lab%20Notebooks/Kaggle%20Competitions/Predict%20Calorie%20Expenditure/mlruns/287292542223627452/3a4e3fabdddf439294c2b8cb20facc17/artifacts
+end_time: 1747323027267
+entry_point_name: ''
+experiment_id: '287292542223627452'
+lifecycle_stage: active
+run_id: 3a4e3fabdddf439294c2b8cb20facc17
+run_name: defiant-ox-419
+run_uuid: 3a4e3fabdddf439294c2b8cb20facc17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747322456684
+status: 4
+tags: []
+user_id: mshopov

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mshopov/Jupyter%20Lab%20Notebooks/Kaggle%20Competitions/Predict%20Calorie%20Expenditure/mlruns/287292542223627452/ab94b00e69c64bc2b697d8d7e1f9a022/artifacts
+end_time: 1747211759253
+entry_point_name: ''
+experiment_id: '287292542223627452'
+lifecycle_stage: active
+run_id: ab94b00e69c64bc2b697d8d7e1f9a022
+run_name: kindly-squirrel-818
+run_uuid: ab94b00e69c64bc2b697d8d7e1f9a022
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747211347623
+status: 3
+tags: []
+user_id: mshopov
